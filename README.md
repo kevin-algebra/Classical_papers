@@ -1,2 +1,2 @@
-# Classical_papers
+# Classical papers in mathematics. 
 R
