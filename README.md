@@ -1,2 +1,6 @@
 # Classical papers in mathematics. 
-R
+
+- Algebraic Topology.
+- Differential Topology.
+- Algebraic Geometry.
+- Differential Geometry.
